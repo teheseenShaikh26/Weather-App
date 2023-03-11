@@ -1,5 +1,5 @@
 # Weather-App
-A app to check the following weather temperature of different ciities.
+An app to check the following weather temperature of different ciities.
 attributes like temperature, humidity, wind speed.
 
 
